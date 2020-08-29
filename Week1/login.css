@@ -94,15 +94,11 @@ body {
 
 .gallery img {
     border: 3px solid #1a201f;
-   
+
     padding: 16px;
     margin-left: 10px;
 }
-<<<<<<< HEAD
 .button {
-=======
-.but {
->>>>>>> 8ac7d6be6ae7497242e1458da7f24b16d575fe4f
     width: 150px;
     height: 35px;
     margin: 0 auto;
